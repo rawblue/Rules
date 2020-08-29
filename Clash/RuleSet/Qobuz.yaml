@@ -1,6 +1,5 @@
 payload:
   # > Qobuz
-  # USER-AGENT,*Qobuz*
   - DOMAIN-SUFFIX,qobuz.com
   - DOMAIN,static.qobuz.com
   - DOMAIN,stats.pusher.com
