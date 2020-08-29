@@ -1,0 +1,8 @@
+payload:
+  # > Moraqualitas
+  - DOMAIN,direct.napster.com
+  - DOMAIN,direct.rhapsody.com
+  - DOMAIN,api.napster.com
+  - DOMAIN,dev.appboy.com
+  - DOMAIN,js-agent.newrelic.com
+  - DOMAIN,use.fontawesome.com
