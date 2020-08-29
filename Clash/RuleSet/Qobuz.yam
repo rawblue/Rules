@@ -1,0 +1,8 @@
+payload:
+  # > Qobuz
+  # USER-AGENT,*Qobuz*
+  - DOMAIN-SUFFIX,qobuz.com
+  - DOMAIN,static.qobuz.com
+  - DOMAIN,stats.pusher.com
+  - DOMAIN,ws-eu.pusher.com
+  - DOMAIN,timeline56-clientstats1.pusher.com
